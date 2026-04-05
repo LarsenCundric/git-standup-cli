@@ -67,6 +67,17 @@ git standup the team since Friday, Mar 7 ──────────
 - **Flexible lookback**: `-d N` to look back N days
 - **Auto-dedupe**: Collapses duplicate commit messages (e.g. commit + PR merge). Disable with `--no-dedupe`
 
+## Part of [git-enhanced](https://github.com/LarsenCundric/git-enhanced)
+
+Install all git power tools at once: `npm install -g git-enhanced`
+
+| Tool | What it does |
+|---|---|
+| [git who](https://github.com/LarsenCundric/git-who-cli) | Find who knows a file best |
+| **git standup** | What did I do yesterday? |
+| [git nuke](https://github.com/LarsenCundric/git-nuke-cli) | Delete a branch everywhere |
+| [git undo](https://github.com/LarsenCundric/smart-git-undo) | Smart undo for any git operation |
+
 ## License
 
 MIT
